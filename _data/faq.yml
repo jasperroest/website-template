@@ -5,14 +5,17 @@
 # - Use the weird |- syntax to allow answers to span lines.
 # - End lines with two spaces if you want to force a line break, otherwise the line break is ignored.
 
-- q: What is this?
+- q: What should I bring?
   a: |- 
-        An example website for this template.  
-        Isn't it awesome?
+        Soup bowl 🍲
+        Cup 🍵
+        Spoon 🥄
+        Warm clothing 🧣
+        Optional: blanket, hot water bottle
 
-- q: Can I use it?
+- q: Can I help>
   a: |-
-        Of course! Just comply with the license, i.e. credit the authors.
+        Yes!
 
 - q: Thank you!
   a: |-
