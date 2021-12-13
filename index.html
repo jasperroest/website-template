@@ -96,14 +96,16 @@ layout: default
       {% endfor %}
       <div class="item-large">
         <h2>I have another question...</h2>
-        <p>Contact us on <a href="https://facebook.com/{{ site.data.info.facebook }}"
+<!-- EDIT3 -->
+<!--         <p>Contact us on <a href="https://facebook.com/{{ site.data.info.facebook }}"
                             rel="noreferrer">Facebook</a>,
           {% if site.data.info.twitter %}
             on <a href="https://twitter.com/{{ site.data.info.twitter }}"
                   rel="noreferrer">Twitter</a>,
           {% endif %}
           <br>
-          or by email ({{ site.data.info.email }})!</p>
+          or by email ({{ site.data.info.email }})!</p> -->
+          <p. Contact us by email ({{ site.data.info.email }}) 
     </div>
   {% endif %}
 </section>
@@ -151,7 +153,8 @@ layout: default
   </section>
 {% endif %}
 <section class="tone-dark">
-  <h1>Committee</h1>
+<!-- EDIT4 -->
+<!--   <h1>Committee</h1>
   <div class="items-container">
     {% for person in site.data.organizers.people %}
       <div class="item-small">
@@ -182,7 +185,7 @@ layout: default
         <a href="/legal">here</a>.
       {% endif %}
     </p>
-  {% endif %}
+  {% endif %} -->
   <p>
     Website template made with love by <a href="https://lauzhack.com">LauzHack</a>.
   </p>
