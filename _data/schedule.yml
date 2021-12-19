@@ -3,6 +3,7 @@
 # Use an empty string ('') for the day names if you do not want headers.
 
 Thursday 16 December:
+  'Soup': 'Pumpkin Soup'
   '17:00-19:00': A
   '19:00-20:00': B
   '20:00-22:30': C
