@@ -3,15 +3,15 @@
 # Use an empty string ('') for the day names if you do not want headers.
 
 Thursday 23 December:
-  '🥘 Soup': Pumpkin Soup 🎃
+  '🥘 Soup': 'Pumpkin Soup 🎃'
   '📍 Location': Unknown
-  '17:00-19:00': Cooking 👩‍🍳 
-  '19:00-20:00': Soup time! 💃
+  '17:00-19:00': 'Cooking 👩‍🍳'
+  '19:00-20:00': 'Soup time! 💃'
   '20:00-22:30': Chillings
 
 Saturday 25 December:
-  '🥘 Soup': Christmas Soup 🎄 
+  '🥘 Soup': 'Christmas Soup 🎄'
   '📍 Location': Unknown
-  '17:00-19:00': Cooking 👨‍🍳
+  '17:00-19:00': 'Cooking 👨‍🍳'
   '19:00-20:00': Soup time! 
-  '20:00-22:30': Chillings 😊
+  '20:00-22:30': 'Chillings 😊'
